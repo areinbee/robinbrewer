@@ -1,0 +1,57 @@
+.nav-pills > .active > a {
+    text-decoration: none;
+    border-radius:0px;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    border-bottom-color: #FFCCCC;
+    color: #000 !important;
+    background-color: transparent !important;
+}
+
+.nav-pills > .active > a:hover,
+.nav-pills > li > a:hover {
+    text-decoration: none;
+    border-radius:0px;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    border-bottom-color: #373568;
+    color: #000 !important;
+    background-color: transparent !important;
+}
+
+.nav-pills > .active > a {
+    font-size: 14px;
+}
+
+.nav-pills > li > a {
+    color: black;
+}
+
+body a {
+    color: #6096BA;
+}
+
+body a:hover {
+    font-size: 16px;
+    text-decoration: none;
+    color: #6096BA;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.news{
+    font-weight: bold;
+}
+
+/*.bio{
+    text-align: justify;
+} */   
+h1.contact{
+    font-size: 180%
+}
+
+h2.contact{
+    font-size: 125%
+}
