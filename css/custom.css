@@ -1,8 +1,33 @@
 h1{
 	font-size: 32px;
 	letter-spacing: 2px; 
+	font-weight: bold;
+	color: #068488;
 }
 
 p.bio{
 	font-size: 18px;
+}
+
+main{
+	padding-top: 4rem;
+}
+
+h2{
+	font-size: 26px;
+}
+
+.nowhiring, .contact{
+	color: #007cbe;
+	
+	font-weight: bold;
+}
+
+a{	
+	color: #f26304;
+	font-weight: bold;
+}
+
+a.nav-link{
+	font-weight: normal;
 }
