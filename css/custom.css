@@ -31,3 +31,8 @@ a{
 a.nav-link{
 	font-weight: normal;
 }
+
+.highlight{
+	color: #007cbe;
+	font-weight: bold;
+}
