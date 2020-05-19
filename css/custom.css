@@ -24,7 +24,7 @@ h2{
 }
 
 a{	
-	color: #f26304;
+	color: #1e824c;
 	font-weight: bold;
 }
 
@@ -32,7 +32,17 @@ a.nav-link{
 	font-weight: normal;
 }
 
+
 .highlight{
 	color: #007cbe;
 	font-weight: bold;
+}
+
+
+.nav-item > a:hover {
+  color: #EFB91A !important;
+}
+
+.bg-dark{
+	background-color: #000000 !important;
 }
