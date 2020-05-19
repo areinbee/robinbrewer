@@ -28,6 +28,10 @@ a{
 	font-weight: bold;
 }
 
+a:hover{
+	color: #0056B3;
+}
+
 a.nav-link{
 	font-weight: normal;
 }
